@@ -9,6 +9,7 @@
     "server": "json-server server.json -w -d 750 -p 3333"
   },
   "dependencies": {
+    "axios": "^0.21.1",
     "date": "^1.0.2",
     "date-fns": "^2.21.1",
     "fns": "^1.0.0",
